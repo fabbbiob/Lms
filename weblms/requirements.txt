@@ -1,0 +1,19 @@
+django<1.5
+dj-database-url
+django-mptt
+django-tinymce==1.5.1a1
+mimeparse==0.1.3
+python-dateutil==1.5
+python-digest==1.7
+pil
+* django_compressor
+django-celery
+django-tastypie
+celery-with-mongodb
+django-social-auth
+django-recurrence<1.1
+*psycopg2 - solo per postgres
+gunicorn
+django-statsd-mozilla
+django-extensions
+factory_boy
